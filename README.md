@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @missaouiouma
+- 👀 I’m interested in Data Science & Artificial Intelligence
+- 🌱 I’m currently learning NLP, computer vision & Deep Learning
+- 💞️ I’m looking to collaborate on Machine Learning projects
+- 📫 How to reach me: missaoui.oumaymaaa@gmail.com
+- ⚡ Fun fact: I'm passionate about photography and music 🎶
